@@ -18,4 +18,4 @@ def add_member(e):
 
     updated_list = "<br>".join(sorted(members))
 
-    document.getElementById("output").innerHTML = (f'Member Names:<br>{updated_list.title()}<br><br>Number of Members: {len(members)}')
+    document.getElementById("output").innerHTML = (f'Member Names:<br><br>{updated_list.title()}<br><br>Number of Members: {len(members)}')
