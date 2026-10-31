@@ -1,4 +1,4 @@
-# Memeber Addition System
+# Member Addition System
 from pyscript import display, document
 
 
